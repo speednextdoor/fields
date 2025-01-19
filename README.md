@@ -2,7 +2,7 @@
 
 this is not setfield i kinda capped and getfield
 
-with getfield 
+with getfield  although it cannot have a custom index so uhm  i didnt not focus on that xd
 
 # ⚠
 
