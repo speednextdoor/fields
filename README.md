@@ -1,10 +1,14 @@
-# setfield
+# setfield & getfield
 
-this is not setfield i kinda capped
+this is not setfield i kinda capped and getfield
+
+note i didnt go getfield readme cus too lazy
 
 # ⚠
 
 so this is not "setglobal" which you (skid) need to know the difference setglobal is a macro which already sets the index as lua_globalsindex i forgot but its smth near that range 
+
+same goes for getfield, it also takes only 2 arguments which is the state, and the key. 
 
 this works differently as it pushes the integer ONTO the stack, and the index cannot be changed.
 
