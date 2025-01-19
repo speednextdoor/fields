@@ -1,8 +1,8 @@
-# setfield & getfield
+# setfield
 
 this is not setfield i kinda capped and getfield
 
-note i didnt go getfield readme cus too lazy
+ok i capped no getfield lol
 
 # ⚠
 
