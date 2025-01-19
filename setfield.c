@@ -4,7 +4,8 @@
 
 // DEFINED AS static void
 
-DWORD64 setfield_addy = 0; // make sure to put ur rebasing function here 
+DWORD64 setfield_addy = 0; // make sure to put ur rebasing function here
+// find the address in loslib.cpp
 
 using setfieldfake  = void(__fastcall*)(lua_State* L, const char* key, int value); 
 setfieldfake lua_setfield = reinterpret_cast<setfieldfake>(setfield_addy);
