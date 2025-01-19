@@ -2,7 +2,7 @@
 
 this is not setfield i kinda capped and getfield
 
-ok i capped no getfield lol
+with getfield 
 
 # ⚠
 
